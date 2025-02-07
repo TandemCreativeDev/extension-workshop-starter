@@ -1,0 +1,10 @@
+{
+  "name": "FAC Workshop Extension",
+  "description": "An extension to get the juices flowing on a lovely Thursday morning",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "FAC.png"
+  }
+}
